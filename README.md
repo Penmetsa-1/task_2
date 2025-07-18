@@ -15,3 +15,11 @@ This project is part of my internship at **BrokiesHub** under the **pyInt** prog
 
 ## 📂 File Structure
 
+📋 To-Do List Menu:
+1. View Tasks
+2. Add Task
+3. Remove Task
+4. Mark Task as Completed
+5. Search Tasks
+6. Clear All Tasks
+7. Exit
